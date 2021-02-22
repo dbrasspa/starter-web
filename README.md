@@ -12,6 +12,6 @@ As stated above the main purpose is to teach me GIT and GIT hub
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. This is a long demo..... on and on.....
 
 ## How to Contribute
