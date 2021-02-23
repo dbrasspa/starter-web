@@ -15,3 +15,7 @@ As stated above the main purpose is to teach me GIT and GIT hub
 Sample website with plenty of files for demos. This is a long demo..... on and on.....
 
 ## How to Contribute
+
+##Copyright
+
+2021 @patsoft
