@@ -16,6 +16,7 @@ Sample website with plenty of files for demos. This is a long demo..... on and o
 
 ## How to Contribute
 
+please for this reposityory and the issue pull requests  for review.
 ##Copyright
 
 2021 @patsoft
