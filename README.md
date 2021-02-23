@@ -8,7 +8,8 @@ This example is to show different parts of the GIT repository and various commma
 
 ## Purpose
 
-first commit in master brand for rebasing exercise
+first commit in master branch for rebasing exercise
+second commit in myfeature branch for rebasing exercise
 
 As stated above the main purpose is to teach me GIT and GIT hub
 
