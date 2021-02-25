@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 	patrick		dev lead	@westpac
+	
+	changes for tutorial 67 number two
 # THANKS
 
 this is the firct change in the myfesture branch
